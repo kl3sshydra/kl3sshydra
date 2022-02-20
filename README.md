@@ -16,4 +16,5 @@ nim (still learning)
 # Contacts:
 ```
 Discord: kl3sshydra#6257
+Twitter: kl3sshydra
 ```
