@@ -1,6 +1,9 @@
 # $whoami
 ```
-Matteo messina denaro's illegitimate nephew
+- matteo messina denaro's illegitimate nephew
+- 15 y/o
+- italian
+- cocaine dealer
 ```
 
 # Favourite languages:
