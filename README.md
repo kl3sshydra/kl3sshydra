@@ -13,8 +13,8 @@
 ```
 java
 python
-golang
-javascript
+golang (best language in the world)
+javascript (it's a love-hate relationship)
 c/c++/c# (almost good at it)
 rust (still learning)
 nim (still learning)
