@@ -2,7 +2,7 @@
 ```
 - matteo messina denaro's illegitimate nephew
 - 15 y/o
-- male
+- male (anzi malissimo)
 - italian
 - malware enjoyer
 - cocaine dealer
