@@ -8,6 +8,7 @@
 - cocaine dealer
 - mentally unstable
 - wanted in 195 countries
+- i publish some shits i do
 ```
 
 # Favourite languages:
